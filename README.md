@@ -11,5 +11,8 @@ omg it's missing
 i have a party on saturday
 hello world
 coding is exciting
+finally i am here
+wow wow wow
+i feel so good mehnnnn
 
 
