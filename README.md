@@ -1,24 +1,9 @@
 # README
+My name is frances dadzie
+This is my second assignment
+i have to get it right
+i am happy to be part of this Ruby Class
+the tech Industry rocks
+i would love to learn more 
+who is also excited about coding
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
